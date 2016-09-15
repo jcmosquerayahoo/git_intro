@@ -69,7 +69,7 @@ int main(void)
   /* Infinite loop */
   while (1)
   {
-  	/* Comentario en github */
+  	/* otro user comentandoComentario en github */
 	i++;
   }
 }
